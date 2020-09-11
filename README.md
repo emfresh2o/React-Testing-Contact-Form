@@ -29,9 +29,9 @@ As a developer, you will be writing tests for every component. As we've learned,
 - [√] Push commits: git push origin `<firstName-lastName>`.
 
 **Test Runner**
-- [ ] In a new terminal window, run `npm test`
-- [ ] With each saved change in your editor, the test runner will re-run all the tests
-- [ ] **IMPORTANT** If a test fails, use the test runner's error messages to find out why it is failing
+- [√] In a new terminal window, run `npm test`
+- [√] With each saved change in your editor, the test runner will re-run all the tests
+- [√] **IMPORTANT** If a test fails, use the test runner's error messages to find out why it is failing
 
 ## Instructions and/or completion requirements (MVP)
 
